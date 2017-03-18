@@ -18,7 +18,7 @@ public class CasioCalc extends Application {
         
         Scene scene = new Scene(root);
          
-        stage.setTitle("Calc v3.0");
+        stage.setTitle("Calc  v3.0");
         stage.setScene(scene);
         stage.show();
     }
