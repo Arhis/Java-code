@@ -38,7 +38,7 @@ class ImageViewerFrame extends JFrame
     {
        setSize(DEFAULT_WIDTH,DEFAULT_HEIGHT );
        
-       //Использовать метку для вывода изображения на экран
+       //Использовать метку для вывода изображения на экран.
        label = new JLabel();
        add(label);
        
